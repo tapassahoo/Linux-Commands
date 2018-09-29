@@ -1,15 +1,12 @@
 **Welcome to the Linux-commands wiki!
 
 Essential VIM commands [see](http://vim.wikia.com/wiki/Moving_around).
+Essential VIM commands [see](https://www.catswhocode.com/blog/130-essential-vim-commands).
+Essential VIM commands for [copy and paste](https://stackoverflow.com/questions/4620672/copy-and-paste-content-from-one-file-to-another-file-in-vi).
 
 
 
 Essential VIM commands: 
-1. http://vim.wikia.com/wiki/Moving_around
-
-2. https://www.catswhocode.com/blog/130-essential-vim-commands
-
-3. https://stackoverflow.com/questions/4620672/copy-and-paste-content-from-one-file-to-another-file-in-vi It is for copy and paste.
 
 4. 6 rsync Examples to Exclude Multiple Files and Directories using exclude-from https://www.thegeekstuff.com/2011/01/rsync-exclude-files-and-folders/?utm_source=feedburner
 
