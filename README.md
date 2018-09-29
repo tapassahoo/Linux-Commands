@@ -8,11 +8,8 @@
 
 - 3 Ways to Delete All Files in a Directory Except One or Few Files with Extensions [see](https://www.tecmint.com/delete-all-files-in-directory-except-one-few-file-extensions/)
 
-7. How to Use Rsync to Sync New or Changed/Modified Files in Linux 
-https://www.tecmint.com/sync-new-changed-modified-files-rsync-linux/
+- How to Use Rsync to Sync New or Changed/Modified Files in Linux [see](https://www.tecmint.com/sync-new-changed-modified-files-rsync-linux/)
 
-8. Rsync (Remote Sync): 10 Practical Examples of Rsync Command in Linux
-https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/
+- Rsync (Remote Sync): 10 Practical Examples of Rsync Command in Linux [see](https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/)
 
-9. User’s Tour of the Module Command - 
-https://lmod.readthedocs.io/en/latest/010_user.html
+- User’s Tour of the Module Command [see](https://lmod.readthedocs.io/en/latest/010_user.html)
