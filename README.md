@@ -1,6 +1,10 @@
-Welcome to the Linux-commands wiki!
+**Welcome to the Linux-commands wiki!
 
-A. Essential VIM commands: 
+Essential VIM commands [see](http://vim.wikia.com/wiki/Moving_around).
+
+
+
+Essential VIM commands: 
 1. http://vim.wikia.com/wiki/Moving_around
 
 2. https://www.catswhocode.com/blog/130-essential-vim-commands
