@@ -1,8 +1,8 @@
 **Welcome to the Linux-commands wiki!
 
-Essential VIM commands [see](http://vim.wikia.com/wiki/Moving_around).
-Essential VIM commands [see](https://www.catswhocode.com/blog/130-essential-vim-commands).
-Essential VIM commands for [copy and paste](https://stackoverflow.com/questions/4620672/copy-and-paste-content-from-one-file-to-another-file-in-vi).
+-  Essential VIM commands [see](http://vim.wikia.com/wiki/Moving_around).
+-  Essential VIM commands [see](https://www.catswhocode.com/blog/130-essential-vim-commands).
+-  Essential VIM commands for [copy and paste](https://stackoverflow.com/questions/4620672/copy-and-paste-content-from-one-file-to-another-file-in-vi).
 
 
 
