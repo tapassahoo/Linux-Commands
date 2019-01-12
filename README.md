@@ -21,5 +21,7 @@
 
 - User’s Tour of the Module Command [see](https://lmod.readthedocs.io/en/latest/010_user.html)
 
+## How to execute a file in /usr/local/bin by using ./bash_profile
+
 - How do I run a .sh or .command file in Terminal [see](https://apple.stackexchange.com/questions/235128/how-do-i-run-a-sh-or-command-file-in-terminal/235129)
 
