@@ -25,3 +25,5 @@
 
 - How do I run a .sh or .command file in Terminal [see](https://apple.stackexchange.com/questions/235128/how-do-i-run-a-sh-or-command-file-in-terminal/235129)
 
+- About bash_profile and bashrc on macOS [see](https://scriptingosx.com/2017/04/about-bash_profile-and-bashrc-on-macos/)
+
