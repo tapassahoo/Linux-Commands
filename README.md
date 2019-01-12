@@ -20,3 +20,6 @@
 ## Use of module
 
 - User’s Tour of the Module Command [see](https://lmod.readthedocs.io/en/latest/010_user.html)
+
+- How do I run a .sh or .command file in Terminal [see](https://apple.stackexchange.com/questions/235128/how-do-i-run-a-sh-or-command-file-in-terminal/235129)
+
