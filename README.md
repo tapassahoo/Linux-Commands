@@ -27,3 +27,8 @@
 
 - About bash_profile and bashrc on macOS [see](https://scriptingosx.com/2017/04/about-bash_profile-and-bashrc-on-macos/)
 
+## Encrypt & Decrypt Files With Password Using OpenSSL
+see [here](https://www.shellhacks.com/encrypt-decrypt-file-password-openssl/)
+
+
+
