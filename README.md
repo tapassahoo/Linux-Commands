@@ -29,6 +29,7 @@
 
 ## Encrypt & Decrypt Files With Password Using OpenSSL
 see [here](https://www.shellhacks.com/encrypt-decrypt-file-password-openssl/)
+How to use OpenSSL to encrypt/decrypt files? see [here](https://stackoverflow.com/questions/16056135/how-to-use-openssl-to-encrypt-decrypt-files)
 
 
 
