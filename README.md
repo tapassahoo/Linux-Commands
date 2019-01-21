@@ -8,6 +8,10 @@
 
 - Linux diff command [see](https://www.computerhope.com/unix/udiff.htm)
 
+- vi/vim delete commands and examples [see](https://alvinalexander.com/linux/vi-vim-delete-line-commands-to-end)
+
+- vim cheat sheet [see](https://vim.rtorr.com)
+
 ## Use of Rsync
 - 6 rsync Examples to Exclude Multiple Files and Directories using exclude-from [see](https://www.thegeekstuff.com/2011/01/rsync-exclude-files-and-folders/?utm_source=feedburner)
 
