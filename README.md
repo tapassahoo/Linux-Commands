@@ -41,7 +41,7 @@ How to use OpenSSL to encrypt/decrypt files? see [here](https://stackoverflow.co
 
 ## Schedule Tasks on Linux Using Crontab
 
-- See [1](https://kvz.io/blog/2007/07/29/schedule-tasks-on-linux-using-crontab/), [2](https://www.tecmint.com/11-cron-scheduling-task-examples-in-linux/)
+- See [1](https://kvz.io/blog/2007/07/29/schedule-tasks-on-linux-using-crontab/), [2](https://www.tecmint.com/11-cron-scheduling-task-examples-in-linux/) and [3](https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/)
 
 
 
