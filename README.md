@@ -39,5 +39,9 @@ How to use OpenSSL to encrypt/decrypt files? see [here](https://stackoverflow.co
 
 - See [here](https://www.2daygeek.com/ssh-key-generation-on-linux-for-passwordless-login/)
 
+## Schedule Tasks on Linux Using Crontab
+
+- See [1](https://kvz.io/blog/2007/07/29/schedule-tasks-on-linux-using-crontab/), [2](https://www.tecmint.com/11-cron-scheduling-task-examples-in-linux/)
+
 
 
