@@ -43,5 +43,11 @@ How to use OpenSSL to encrypt/decrypt files? see [here](https://stackoverflow.co
 
 - See [1](https://kvz.io/blog/2007/07/29/schedule-tasks-on-linux-using-crontab/), [2](https://www.tecmint.com/11-cron-scheduling-task-examples-in-linux/) and [3](https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/)
 
+## SSH Can Do That? Productivity Tips for Working with Remote Servers
 
+- See [1](http://blogs.perl.org/users/smylers/2011/08/ssh-productivity-tips.html)
+
+## FUSE and SSHFS on OS X
+
+- See [1](https://stuff-things.net/2015/05/20/fuse-and-sshfs-on-os-x/), [2](https://blogs.harvard.edu/acts/2013/11/08/the-newbie-how-to-set-up-sshfs-on-mac-os-x/), [3](https://medium.com/@tzhenghao/writing-remote-code-on-a-mac-with-sshfs-c62d64bf9ef9), [4]()
 
