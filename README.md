@@ -49,5 +49,5 @@ How to use OpenSSL to encrypt/decrypt files? see [here](https://stackoverflow.co
 
 ## FUSE and SSHFS on OS X
 
-- See [1](https://stuff-things.net/2015/05/20/fuse-and-sshfs-on-os-x/), [2](https://blogs.harvard.edu/acts/2013/11/08/the-newbie-how-to-set-up-sshfs-on-mac-os-x/), [3](https://medium.com/@tzhenghao/writing-remote-code-on-a-mac-with-sshfs-c62d64bf9ef9), [4]()
+- See [1](https://stuff-things.net/2015/05/20/fuse-and-sshfs-on-os-x/), [2](https://blogs.harvard.edu/acts/2013/11/08/the-newbie-how-to-set-up-sshfs-on-mac-os-x/), [3](https://medium.com/@tzhenghao/writing-remote-code-on-a-mac-with-sshfs-c62d64bf9ef9), [4](https://blog.khairulazam.net/2013/06/05/write-failed-broken-pipe-issue-on-mac-os-x/)
 
