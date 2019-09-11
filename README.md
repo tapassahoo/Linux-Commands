@@ -12,7 +12,7 @@
 
 - vim cheat sheet [see](https://vim.rtorr.com)
 
-- Setting Your PYTHONPATH environment variable (Linux/Unix/OsX) [ss](https://scipher.wordpress.com/2010/05/10/setting-your-pythonpath-environment-variable-linuxunixosx/)
+- Setting Your PYTHONPATH environment variable (Linux/Unix/OsX) [see](https://scipher.wordpress.com/2010/05/10/setting-your-pythonpath-environment-variable-linuxunixosx/)
 
 ## Use of Rsync
 - 6 rsync Examples to Exclude Multiple Files and Directories using exclude-from [see](https://www.thegeekstuff.com/2011/01/rsync-exclude-files-and-folders/?utm_source=feedburner)
