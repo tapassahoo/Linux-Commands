@@ -55,10 +55,18 @@ How to use OpenSSL to encrypt/decrypt files? see [here](https://stackoverflow.co
 
 ## job handling by ~/.bashrc 
 - To see a list of jobs which are pending 
+
+```
 alias pdlist=$'squeue -u tapas|awk \'$5==\"PD\"\''
+```
 
 - To see a list of jobs which are running
+```
 alias runlist=$'squeue -u tapas|awk \'$5==\"R\"\''
+```
 
 - list of jobid for pending jobs
+
+```
 alias killpd=$'squeue -u tapas|awk \'$5==\"PD\"\'|awk \'{print $1}\''
+```
