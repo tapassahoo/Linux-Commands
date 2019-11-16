@@ -53,3 +53,12 @@ How to use OpenSSL to encrypt/decrypt files? see [here](https://stackoverflow.co
 
 - See [1](https://stuff-things.net/2015/05/20/fuse-and-sshfs-on-os-x/), [2](https://blogs.harvard.edu/acts/2013/11/08/the-newbie-how-to-set-up-sshfs-on-mac-os-x/), [3](https://medium.com/@tzhenghao/writing-remote-code-on-a-mac-with-sshfs-c62d64bf9ef9), [4](https://blog.khairulazam.net/2013/06/05/write-failed-broken-pipe-issue-on-mac-os-x/)
 
+## job handling by ~/.bashrc 
+- To see a list of jobs which are pending 
+alias pdlist=$'squeue -u tapas|awk \'$5==\"PD\"\''
+
+- To see a list of jobs which are running
+alias runlist=$'squeue -u tapas|awk \'$5==\"R\"\''
+
+- list of jobid for pending jobs
+alias killpd=$'squeue -u tapas|awk \'$5==\"PD\"\'|awk \'{print $1}\''
