@@ -1,5 +1,7 @@
 # Welcome to the Linux-commands wiki!
 
+- How do I jump to the location of my last edit? [see](https://vi.stackexchange.com/questions/2001/how-do-i-jump-to-the-location-of-my-last-edit)
+
 -  Essential VIM commands [see](http://vim.wikia.com/wiki/Moving_around)
 
 -  Essential VIM commands [see](https://www.catswhocode.com/blog/130-essential-vim-commands)
