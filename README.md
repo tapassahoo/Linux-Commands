@@ -75,6 +75,8 @@ alias killpd=$'squeue -u tapas|awk \'$5==\"PD\"\'|awk \'{print $1}\''
 
 ## gnuplot script
 
+My gnuplot script (gnuplot-fitting) comprised the below line -
+
 ```
 f(x) = a + b*x*x+c*x*x*x*x
 a=-2500.
@@ -87,4 +89,7 @@ plot filename using 2:6 w lp, '' u 2:6:10 w yerr, f(x)
 pause -1 "Hit Enter to continue"
 ```
 
-- gnuplot -e "filename='< tail -8 ~/ResultsOfPIGS/PIGS-TransAndRotDOFs-Rpt10.0Angstrom-Energy-vs-tau-fixed-beta0.1Kinv-Blocks10000-Passes200-System2-p-H2O-preskip5000-postskip0.txt'" gnuplot_in
+- To plot 'somefile', I run 
+```
+gnuplot -e "filename='< tail -8 ~/ResultsOfPIGS/PIGS-TransAndRotDOFs-Rpt10.0Angstrom-Energy-vs-tau-fixed-beta0.1Kinv-Blocks10000-Passes200-System2-p-H2O-preskip5000-postskip0.txt'" gnuplot_
+```
