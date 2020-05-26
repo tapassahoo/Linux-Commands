@@ -25,6 +25,10 @@
 
 - Rsync (Remote Sync): 10 Practical Examples of Rsync Command in Linux [see](https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/)
 
+- Way to exclude files from rsync while transferring those from remote to local machine
+
+rsync -avze ssh graham:/home/tapas/ResultsOfPIGS/* /Users/tsahoo/ResultsOfPIGS/ --exclude 'PIGS-qTIP4P-RotDOFs-Rpt[01789].[02468]Angstrom*-beta0.2Kinv*System11-p-H2O*'
+
 ## Use of module
 
 - User’s Tour of the Module Command [see](https://lmod.readthedocs.io/en/latest/010_user.html)
