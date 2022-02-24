@@ -99,3 +99,14 @@ pause -1 "Hit Enter to continue"
 ```
 gnuplot -e "filename='< tail -8 ~/ResultsOfPIGS/PIGS-TransAndRotDOFs-Rpt10.0Angstrom-Energy-vs-tau-fixed-beta0.1Kinv-Blocks10000-Passes200-System2-p-H2O-preskip5000-postskip0.txt'" gnuplot_
 ```
+
+## How to copy a block of lines from a file to my open one
+
+Enter command mode and run
+```
+:r! sed -n '<start_line_num>, <end_line_num> p' file_to_extract_text_from
+```
+E.g to extract lines 20-30 from filename into the currently opened file
+```
+:r! sed -n '20, 30p' filename
+```
