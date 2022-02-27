@@ -110,3 +110,10 @@ E.g to extract lines 20-30 from filename into the currently opened file
 ```
 :r! sed -n '20, 30p' filename
 ```
+
+2 Rust tools worth trying on the Linux command line
+
+```
+Replace du with dust
+Replace ls with exa
+```
