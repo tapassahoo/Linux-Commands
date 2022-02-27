@@ -121,6 +121,7 @@ Replace ls with exa
 A Case Study in Vim Script 101: Making a Test Runner
 
 ```
+let mapleader = ","
 nnoremap <Leader>ta :call TestAll()<cr>
 nnoremap <Leader>tf :call TestFile()<cr>
 nnoremap <Leader>tt :call TestThis()<cr>
