@@ -207,3 +207,13 @@ endfunction
 ## Customizing Vim
 
 - [x] [Vim Reference Guide](https://learnbyexample.github.io/vim_reference/Customizing-Vim.html)
+
+## Usefull commands
+
+- [x] How to remove all files excluding some specific ones?
+
+```
+setopt extended_glob
+rm -- ^*.dmg
+rm -- ^*.(dmg|txt)
+```
