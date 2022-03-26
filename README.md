@@ -214,6 +214,12 @@ endfunction
 
 ```
 setopt extended_glob
-rm -- ^*.dmg
-rm -- ^*.(dmg|txt)
+rm ^*.dmg
+rm ^*.(dmg|txt)
+```
+- [x] How to generate list of files
+
+```
+touch {1..10}test  # It gives 1test ... 10test
+touch test.{1..10} # It gives test.1 ... test.10
 ```
