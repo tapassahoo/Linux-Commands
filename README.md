@@ -203,3 +203,7 @@ function CloseTest()
   endif
 endfunction
 ```
+
+## Customizing Vim
+
+- [x] [Vim Reference Guide](https://learnbyexample.github.io/vim_reference/Customizing-Vim.html)
