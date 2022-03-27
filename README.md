@@ -223,3 +223,8 @@ rm ^*.(dmg|txt)
 touch {1..10}test  # It gives 1test ... 10test
 touch test.{1..10} # It gives test.1 ... test.10
 ```
+
+## How to Quickly Resize, Convert & Modify Images from the Linux Terminal
+```
+for file in *.pdf; do convert $file -quality 25 90 $file; done
+```
