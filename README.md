@@ -1,3 +1,25 @@
+# Frequently used vim commands
+
+- [x] Remove all files except some specific ones
+
+```
+setopt extended_glob
+rm ^*.dmg
+rm ^*.(dmg|txt)
+```
+
+- [x] Copy few lines of a file without opening it and paste the lines into the current file which is opened. 
+
+```
+:r! sed -n '20, 30p' filename
+```
+
+- [x] Search and replace
+
+```
+:%s/ndim/size_energy_reduced/g
+```
+
 # Welcome to the Linux-commands wiki!
 
 - How do I jump to the location of my last edit? [see](https://vi.stackexchange.com/questions/2001/how-do-i-jump-to-the-location-of-my-last-edit)
