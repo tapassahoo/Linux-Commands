@@ -20,6 +20,12 @@ rm ^*.(dmg|txt)
 :%s/ndim/size_energy_reduced/g
 ```
 
+- [x] Marge pdf files
+
+```
+convert -density 300x300 -quality 100 mine1.pdf mine2.pdf merged.pdf
+```
+
 # Welcome to the Linux-commands wiki!
 
 - How do I jump to the location of my last edit? [see](https://vi.stackexchange.com/questions/2001/how-do-i-jump-to-the-location-of-my-last-edit)
