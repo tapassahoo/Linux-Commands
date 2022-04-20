@@ -1,5 +1,11 @@
 # Frequently used vim commands
 
+- [x] Math in zsh 
+```
+setopt +o nomatch
+function ?() { echo "$*" | bc ; }
+```
+
 - [x] Remove all files except some specific ones
 
 ```
